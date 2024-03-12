@@ -8,7 +8,7 @@
       <jdbc-url>jdbc:mysql://temp-db.ciz45lm9ifs2.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@mission7.ciz45lm9ifs2.ap-northeast-2.rds.amazonaws.com" uuid="6bcf3ecb-2a6a-45dc-9184-fde06feb67b7">
+    <data-source source="LOCAL" name="@mission7.ciz45lm9ifs2.ap-northeast-2.rds.amazonaws.com" group="QA/Mission7" uuid="6bcf3ecb-2a6a-45dc-9184-fde06feb67b7">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
